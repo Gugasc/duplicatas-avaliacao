@@ -1,0 +1,35 @@
+# Ambientes locais e arquivos de configuração pessoal
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Python: cache, empacotamento e ferramentas de teste
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Editores e sistema operacional
+.vscode/
+.idea/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários e saídas que os scripts podem recriar
+tmp/
+av2_ordenacao/relatorios/
+av2_ordenacao/apresentacoes/
+av2_ordenacao/resultados/
+av3_conjunto/relatorios/
+av3_conjunto/apresentacoes/
+av3_conjunto/resultados/
+resultados/*.png

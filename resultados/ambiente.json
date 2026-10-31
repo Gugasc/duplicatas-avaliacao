@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "plataforma": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "processador": "x86_64",
+  "repeticoes": 5,
+  "medida": "mediana de tempo de parede em ms",
+  "dados": "inteiros sequenciais sem repeticao, gerados fora da medicao",
+  "data_utc": "2026-10-29T17:22:51Z"
+}

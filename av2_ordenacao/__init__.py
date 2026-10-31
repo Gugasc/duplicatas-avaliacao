@@ -1,0 +1,1 @@
+"""Primeira otimização por ordenação."""
